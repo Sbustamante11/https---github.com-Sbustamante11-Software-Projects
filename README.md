@@ -16,12 +16,9 @@ The reasoning for a simple hello world program is to integrate Git into Visual S
 1. Visual Studio Code
 2. Git
 
-{Describe the programming language that you used}
 ** Programming Language **
 - Python Version 3.10.0
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/)
 * [Official Python site](https://www.python.org/)
